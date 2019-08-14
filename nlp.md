@@ -7,9 +7,17 @@
 
 ## NLP常用框架
 
-- [fastText：分类] <https://github.com/facebookresearch/fastText>
-- [pyltp：分词、词性、ner、句法等] <https://github.com/HIT-SCIR/pyltp>
-- [ltp4j：分词、词性、ner、句法等] <https://github.com/HIT-SCIR/ltp4j>
+- [fastText：分类][Python] <https://github.com/facebookresearch/fastText>
+- [FudanNLP：分词、词性、句法][Java] <https://github.com/FudanNLP/fnlp>
+- [pyltp：分词、词性、ner、句法等][Python] <https://github.com/HIT-SCIR/pyltp>
+- [ltp4j：分词、词性、ner、句法等][Java] <https://github.com/HIT-SCIR/ltp4j>
+
+## NLP 处理套件
+
+### fastNLP
+
+- [fastNLP][Python] <https://github.com/fastnlp/fastNLP>
+- **简介：** fastNLP 是一款轻量级的 NLP 处理套件。你既可以使用它快速地完成一个序列标注（NER、POS-Tagging等）、中文分词、文本分类、Matching、指代消解、摘要等任务； 也可以使用它构建许多复杂的网络模型，进行科研。
 
 ## 深度学习框架
 
