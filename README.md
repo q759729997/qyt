@@ -3,6 +3,7 @@
 ## 开发工具
 
 - [gitignore] <https://github.com/github/gitignore>
+- [谷歌访问助手] <https://github.com/haotian-wang/google-access-helper>
 
 ## Python
 

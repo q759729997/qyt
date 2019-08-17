@@ -5,6 +5,10 @@
 - [NLP-Beginner] <https://github.com/FudanNLP/nlp-beginner>
 - [算法/深度学习/NLP面试笔记] <https://github.com/imhuay/Algorithm_Interview_Notes-Chinese>
 
+## 学习资源
+
+- [文本数据管理与分析：邱锡鹏] <https://textprocessing.github.io/>
+
 ## NLP常用框架
 
 - [fastText：分类][Python] <https://github.com/facebookresearch/fastText>
