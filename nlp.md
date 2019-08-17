@@ -1,5 +1,9 @@
 # NLP收藏资料
 
+## 资源集合
+
+- [NLP资源集合，工具、语料、任务、平台] <https://github.com/crownpku/Awesome-Chinese-NLP>
+
 ## 自然语言处理入门练习
 
 - [NLP-Beginner] <https://github.com/FudanNLP/nlp-beginner>
