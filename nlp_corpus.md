@@ -1,5 +1,9 @@
 # NLP语料库收集
 
+## 学术界语料
+
+- 刘焕勇-项目地址：<https://github.com/liuhuanyong/LanguageResources>；<https://github.com/liuhuanyong/ChineseNLPCorpus>
+
 ## 其他
 
 ### 诗词
